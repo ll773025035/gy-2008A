@@ -300,24 +300,28 @@
 # print(random_name())
 
 
-print("aa")
-print("bb")
-try:
-    # r = open("a.txt","r")
-    print(1 / 2)
-except (FileNotFoundError,ZeroDivisionError) as e:
-    print(e)
-    print("程序执行遇到了问题")
-    print("重新打开文件")
-else:
-    print("程序运行没报错")
-finally:
-    print("不管程序有没有报错都会运行")
-print("cc")
+# print("aa")
+# print("bb")
+# try:
+#     # r = open("a.txt","r")
+#     print(1 / 2)
+# except (FileNotFoundError,ZeroDivisionError) as e:
+#     print(e)
+#     print("程序执行遇到了问题")
+#     print("重新打开文件")
+# else:
+#     print("程序运行没报错")
+# finally:
+#     print("不管程序有没有报错都会运行")
+# print("cc")
 
 
 # def aaa(jj):
 #     list = jj
 #     print(list)
 # aaa([1,2,3])
+
+
+print("最新代码")
+
 
